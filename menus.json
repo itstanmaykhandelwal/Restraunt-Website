@@ -1,0 +1,65 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Veg Spring Roll",
+    "image": "pic1.jpg",
+    "price": "250",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Chilli Paneer",
+    "image": "pic2.jpg",
+    "price": "300",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Panner Tikka",
+    "image": "pic3.jpg",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Paneer Malai Tikka",
+    "image": "pic5.jpg",
+    "price": "500",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Cream Of Tomato",
+    "image": "pic4.jpg",
+    "price": "100",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Cheese Sandwich",
+    "image": "pic8.jpg",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Cheese Burger",
+    "image": "pic6.jpg",
+    "price": "70",
+    "size": "large"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Cold Coffee",
+    "image": "pic7.jpg",
+    "price": "100",
+    "size": "medium"
+  }]
